@@ -4,7 +4,7 @@ Autonomous Model Railroad Switching
 What is the name of your proposed project?
 Autonomous Model Railroad Switching
 
-In one or two sentences, briefly explain the need being fulfilled by your proposedproject.
+In one or two sentences, briefly explain the need being fulfilled by your proposed project.
 The cars that form a train are gathered and separated and major rail junctions. This allows trains to route cars efficiently. This process of separating cars and collectingcars is called switching. This operation is currently done under human control. This project will establish the infrastructure for an automated solution.
 
 In a few sentences or less, summarize your approach for addressing the need above.
